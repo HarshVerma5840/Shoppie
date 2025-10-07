@@ -1,0 +1,98 @@
+Online shopping system 
+
+------------------------------
+
+WEBPAGES
+-login
+-signup
+-homepage
+-categories
+-grocery
+-fashion
+-electronics
+-billing
+-FAQ
+-Delivery Status
+
+-------------------------------
+
+LOGIN
+-Email
+-Password
+
+------------------------------
+
+SIGNUP
+-Name
+-Email
+-Password
+-Phone number
+
+------------------------------
+
+HOMEPAGE
+-Search Bar
+
+-------------------------------
+
+CATEGORIES
+-Grocery
+-Fashion
+-Electronics
+
+-------------------------------
+
+GROCERY
+-
+-
+-
+-
+-
+-
+
+--------------------------------
+
+FASHION
+-
+-
+-
+-
+-
+-
+
+---------------------------------
+
+ELECTRONICS
+-
+-
+-
+-
+-
+-
+
+---------------------------------
+
+BILLING
+-Name
+-Card number
+-Expiry
+-Amount to be paid
+-Date
+
+---------------------------------
+
+FAQ
+-Refunds
+-Geniune
+-Delivery Status
+-Unavailability
+-Damaged product
+
+--------------------------------
+
+DELIVERY STATUS
+-Order id
+-Product Name
+-Status
+-Estimated Date of Arrival
+
